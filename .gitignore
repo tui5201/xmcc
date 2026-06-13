@@ -1,0 +1,8 @@
+backend/
+frontend/
+node_modules/
+deploy.py
+deploy_github.py
+.DS_Store
+*.pyc
+test-convert.js
